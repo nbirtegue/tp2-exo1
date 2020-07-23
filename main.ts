@@ -36,5 +36,5 @@ basic.forever(function () {
     led.plot(2, y2)
     led.plot(3, y3)
     led.plot(4, y4)
-    basic.pause(50)
+    basic.pause(100)
 })
